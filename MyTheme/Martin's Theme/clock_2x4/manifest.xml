@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Clock version="1" frameRate="20" type="awesome" useVariableUpdater="DateTime.Minute" screenWidth="1080">
+
+	<ExternalCommands>
+		<Trigger action="resume">
+			<VariableCommand name="rand_num" expression="int(rand(#time)*3+1)" />
+			<IntentCommand action="initialization" broadcast="true">
+				<Extra name="bg_number" type="number" expression="#rand_num" />
+			</IntentCommand>
+		</Trigger>
+		<Trigger action="pause" >
+		</Trigger>
+	</ExternalCommands>
+
+	<Group name="Timer" x="-18" y="48">
+	    <Image x="288" y="34"align="center" src="bg.png"/>
+		<ImageNumber x="69" y="45"  number="int(#hour24/10)" src="t.png" />
+		<ImageNumber x="172" y="45" number="int(#hour24%10)" src="t.png" />
+		<ImageNumber x="69" y="212" number="int(#minute/10)" src="t.png" />
+		<ImageNumber x="172" y="212" number="int(#minute%10)" src="t.png" />
+		<Button name="clock_button" x="69" y="172" w="200" h="300"/>
+		<DateTime x="308" y="318" color="#ffffff" bold="ture" size="33" format="yy/MM/dd"/>
+		<DateTime x="308" y="268" color="#ffffff"  size="33" format="EEEE"/>
+	</Group>
+</Clock>

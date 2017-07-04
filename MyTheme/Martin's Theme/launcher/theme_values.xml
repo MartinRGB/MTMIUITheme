@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<MIUI_Theme_Values>
+<dimen name="folder_preview_top_margin">6.0dip</dimen>
+<dimen name="folder_preview_width">38.000000dp</dimen>
+<dimen name="folder_preview_height">38.000000dp</dimen>
+<dimen name="folder_preview_item_padding">0.800000dp</dimen>
+<dimen name="config_icon_height">50.000000dp</dimen>
+<dimen name="config_icon_width">50.000000dp</dimen>
+</MIUI_Theme_Values>

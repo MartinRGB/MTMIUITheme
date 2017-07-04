@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<MIUI_Theme_Values>
+<color name="action_bar_subtitle_settings_text_light" package="miui">#8fffffff</color>
+<color name="action_bar_tab_text_color_disable_light" package="miui">#88ffffff</color>
+<color name="action_bar_title_text_color_disabled_light" package="miui">#8cffffff</color>
+<color name="action_bar_title_text_color_light" package="miui">#b8ffffff</color>
+
+
+
+
+<integer name="window_translucent_status" package="miui">2</integer>
+<color name="blank_page_text_color_light" package="miui">#7f000000</color>
+<color name="action_bar_tab_text_color_pressed_light" package="miui">#ffffffff</color>
+<color name="action_mode_title_button_text_color_pressed_light" package="miui">#ccffffff</color>
+<color name="action_bar_subtitle_text_dark" package="miui">#e5ffffff</color>
+<color name="action_mode_title_text_color_light" package="miui">#ffffffff</color>
+<color name="action_bar_tab_text_color_normal_light" package="miui">#b2ffffff</color>
+<color name="action_bar_subtitle_text_light" package="miui">#b2ffffff</color>
+<color name="action_mode_title_button_text_color_normal_light" package="miui">#ffffffff</color>
+
+<color name="action_bar_tab_text_color_selected_light" package="miui">#ffffffff</color>
+</MIUI_Theme_Values>
+
+

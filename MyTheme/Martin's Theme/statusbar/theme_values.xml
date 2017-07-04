@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<MIUI_Theme_Values>
+<bool name="config_show_statusbar_search">false</bool>
+<bool name="auto_modify_expanded_header_color">false</bool>
+<integer name="expanded_status_bar_toggles_column" package="miui">4</integer>
+<integer name="expanded_status_bar_toggles_rows">3</integer>
+<integer name="expanded_status_bar_toggles_single_page_column"package="miui">4</integer>
+
+
+<dimen name="single_page_brightness_panel_height">70.0dip</dimen>
+<dimen name="expanded_status_bar_toggles_brightness_panel_height">70.000000dp</dimen>
+<dimen name="expanded_status_bar_brightness_panel_padding_right">30.0dp</dimen>
+<dimen name="expanded_status_bar_brightness_panel_padding_left">30.0dp</dimen>
+<dimen name="expanded_status_bar_land_brightness_panel_padding_left">30.0dp</dimen>
+<dimen name="expanded_status_bar_land_brightness_panel_padding_right">30.0dp</dimen>
+<dimen name="single_expanded_status_bar_brightness_panel_padding_left">30.0dp</dimen>
+<dimen name="single_expanded_status_bar_brightness_panel_padding_right">30.0dp</dimen>
+<dimen name="expanded_header_no_search_height">80.0dip</dimen>
+<dimen name="single_page_toggles_space">2dip</dimen>
+<dimen name="single_page_toggles_offset">0dip</dimen>
+<dimen name="expanded_status_bar_toggle_max_width">60.0dip</dimen>
+<dimen name="expanded_status_bar_toggle_max_land_height">70.0dip</dimen>
+<dimen name="expanded_status_bar_toggle_max_height">60.0dip</dimen>
+<dimen name="toggle_text_size">10.0sp</dimen>
+
+
+<color name="status_bar_expanded_color">#ff374246</color>
+<color name="qs_detail_connect_item_secondary_text_color">#ccffffff</color>
+<color name="task_manager_text">#ffffffff</color>
+<color name="expanded_notification_manager_color">#7fffffff</color>
+<color name="task_item_text_shadowColor">#00000000</color>
+<color name="toggle_lable_color_p">#ffffffff</color>
+<color name="no_notification_tips_text">#7fffffff</color>
+<color name="qs_detail_connect_item_primary_text_color">#ffffffff</color>
+<color name="qs_detail_button">#ffffffff</color>
+<color name="qs_detail_item_primary_text_color">#99ffffff</color>
+<color name="qs_detail_connect_header_color">#ff374246</color>
+<color name="qs_detail_disconnect_header_color">#ff374246</color>
+<color name="toggle_lable_color_n">#ccffffff</color>
+</MIUI_Theme_Values>
