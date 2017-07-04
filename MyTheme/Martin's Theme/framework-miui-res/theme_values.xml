@@ -2,4 +2,12 @@
 <MIUI_Theme_Values>
 <string name="fmt_time_12hour_minute_pm">Eaa hh:mm </string>
 <string name="fmt_time_24hour_minute">E HH:mm</string>
+
+<!-- 图标内icon尺寸 -->
+<dimen name="customizer_icon_content_size">48.000000dp</dimen>
+
+<!-- 圆型图标的尺寸 -->
+<dimen name="customizer_irregular_content_size">44.000000dp</dimen>
+<dimen name="customizer_icon_size">50.700000dp</dimen>
+
 </MIUI_Theme_Values>
